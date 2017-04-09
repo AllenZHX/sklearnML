@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 08 22:59:58 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-50a7-60a9-00000b915920 
+on database directory /home/hadoop_1/scikit-learnML/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@20d204b9 
+Loaded from file:/usr/local/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/hadoop_1/scikit-learnML
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-107-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
